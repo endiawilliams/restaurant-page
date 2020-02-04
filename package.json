@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "restaurant homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/endiawilliams/restaurant-page.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Endia William s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endiawilliams/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/endiawilliams/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
+}
